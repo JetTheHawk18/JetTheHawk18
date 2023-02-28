@@ -1,10 +1,10 @@
 # JET THE HAWK
 
-![ERROR LOADING](https://images-ext-2.discordapp.net/external/L1FP0SwWjeyQFq_8I1ToPTIiCispozjiUZOevhDH5Fg/%3Fsize%3D4096/https/cdn.discordapp.com/avatars/1008587468112674827/ba066393969cebc801c66afaf5611110.png)
+![ERROR LOADING](https://images-ext-2.discordapp.net/external/iL4hJNSwsj-dChesjEf8hQX5ARs-iMBmqnMN7cHuMhA/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/779210521051267082/8d9a249d103ba2d5b25a278f1504b0ed.png)
 
 Welcome to Jet The Hawk's Github Account.
 
-I have made the Jet the Hawk Discord bot for Discord. The bot is made in discord.py
+I used to own some Jet the Hawk discord bots but I retired from developing them. Jet the Hawk Female and Jet the Hawk R now belongs to [Sonic the Dev](https://github.com/SonicTheDev).
 
 I have some knowledge in discord.py (Python) and running a discord server.
 
