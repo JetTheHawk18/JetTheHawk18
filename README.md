@@ -6,7 +6,7 @@ Welcome to Jet The Hawk's Github Account.
 
 I used to own some Jet the Hawk discord bots but I retired from developing them. Jet the Hawk Female and Jet the Hawk R now belongs to [Sonic the Dev](https://github.com/SonicTheDev).
 
-I have some knowledge in discord.py (Python) and running a discord server.
+I have some previous knowledge in discord.py (Python) and running a discord server. My Discord account username is jet.thehawk (Previously known as: Jet the Hawk#8960)
 
 ### My Social Media
 
